@@ -32,31 +32,43 @@ cover:
 
 ## This Site's Reason for Being
 
-The (more or less) sole reason for this site's reason for being is to provide some insight into my work and skills.
+This site's reason for being (more or less) is to provide some insight into my work and skills, specifically topics relevant to software development and technical writing, and, even more specifically, how such topics are relevant to planning and building modern, engaging experiences that help developers enjoy their work more and be more productive.
 
-These "work and skills" regard mostly topics in software development and technical writing, especially as it regards the creation of modern, top-shelf developer documentation.
+I avoid saying things like this site is to "help build my personal brand", because I can only assume a personal brand must come with things like a personal logo and personal color palette. Maybe I'd have to sell Jason Gannon-themed merchandise? Well, I'm not prepared for all that.
 
-I avoid saying things like this site is to "help build my personal brand", because I can only assume a personal brand must come with things like a personal logo and personal color palette. Do I have to start selling merch? Well, I'm not prepared for all that.
-
-Let's just say this site is a friendly tour of "what I do" for those interested to learn more.
+Let's instead call this site a friendly (if relatively lengthy) answer to the question "So what do you do?" for those interested to learn more.
 
 ## About Myself
 
-Hello, I'm Jason, the author and developer of this site. I graduated from Purdue University in 2004 with a Bachelor of Arts in English Literature. I'm a technical writer and developer with 14 years of experience in software development.
+Hi there. So, I am Jason Gannon. Well... I'm a Jason Gannon. A Google search shows there are several of us out there. To narrow it down, I am the one who graduated from Purdue University in 2004 with a Bachelor of Arts in English Literature and a minor in Economics. I'm like 99.99% sure I'm the only Jason Gannon like that. See how well I filter data?
 
-Nowadays I'm focused on building great developer experiences: developer portals, API references. I also like to support developers with cross-functional responsibilities like UAT tests and the creation of design documentation, such as UML class diagrams.
+Now that that's cleared up, I'll add that I'm also a technical writer and developer with 14 years of experience in software development, and like most people in the business that long, I've work on a lot of different projects and with a lot of different toolchains.
 
-I love to help managers and developers create great products and documentation. I know SMEs are busy, and I work to provide thorough research and detailed drafts to minimize the time SMEs need to spend on document review and redlines.
+### What I'm Good At
 
-## How I Like to Work
+My expertise is in technical writing — that is my first and best skill and the one I've been honing since university. I'm well versed in the tools and methodologies needed to build great documentation. So topics like style and usage, technical editing, working with SMEs, and information architecture are right in my wheelhouse.
 
-Plain text, version control, and automation all make the technical writer's life easier (and less error prone), so I prefer the [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) approach. I like style guides and adherence to them so the end-users have a consistent experience.
+I am a decent to very good front-end developer, especially once I get into a flow with a tool. It's the nature of the job, I tend to switch up toolchains often, which makes the day-in-day-out use of any specific tool rare and makes me very disinclined to compare my skills with those talented individuals who have true expertise with a tool like React. That all said, I can hold my own, and I can operate as a developer/writer (I usually do).
 
-I don't need much runway on new projects— I can immediately start to help the team review designs and provide accurate, comprehensive documentation. 
+### How I Like to Work
 
-## Some of What I Know
+I'm a huge proponent of the [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) approach. Plain text, version control, and automation all make the technical writer's life easier (and less error prone). I love to write in Markdown. I prefer to work in a text editor and a terminal ([VS Code](https://code.visualstudio.com/) with [Oh My Zsh](https://ohmyz.sh/) is my jam). I like to commit my updates, submit a merge request, then move on to the next task.
 
-### APIs
+I don't need much runway on new projects (depending on complexity of course). Give me a few days to cram like a college kid during finals weeks, and I'll be prepared to support the team with accurate, comprehensive documentation.
+
+### What I'm Up to Lately
+
+Nowadays I focus on the methods and tools that help build great developer documentation: developer portals, API references, internal team sites. So I'm often trying out a new documentation tool or researching other developer portals to see what the best-in-class sites are offering to developers.
+
+I enjoy study and I love software and hardware, so I'm happy to deep-dive into a new tool or topic needed for work.
+
+Lately I've studied FastAPI, React, and MongoDB (the FARM stack). I love to prototype; so tools and frameworks that enable rapid development and iteration are always on my radar.
+
+And I love film, books, music, coffee, travel, history, philosophy. (But, hey, who doesn't?)
+
+### Skills that Pay the Bills
+
+#### APIs
 
 - API design and best practices
 - OpenAPI specification (OAS file)
@@ -64,14 +76,14 @@ I don't need much runway on new projects— I can immediately start to help the 
 - Security, Authentication (Basic Auth, API KEY, OAuth)
 - Swagger, Postman, Redocly
 
-### SSGs
+#### SSGs
 
 - Gatsby
 - Hugo
 - Next.js
 - Docusaurus
 
-### Modeling/Diagramming
+#### Modeling/Diagramming
 
 - Visio/Lucid/Draw.io
 - [PlantUML](https://plantuml.com/)
@@ -79,7 +91,7 @@ I don't need much runway on new projects— I can immediately start to help the 
 - [Python diagrams](https://diagrams.mingrammer.com/) (Diagrams as Code)
 - [Mermaid.js](https://mermaid.js.org/)
 
-### Languages/formats/frameworks
+#### Languages/formats/frameworks
 
 - HTML, CSS
 - JSON, XML
@@ -94,17 +106,13 @@ I don't need much runway on new projects— I can immediately start to help the 
 - bash, zsh
 - linux, windows, macOS
 
-### Business Domains
+#### Business Domains
 
 - Payments
 - Finance/Banking
 - Life Science
 - Construction Engineering
 
-I enjoy study and I love software and hardware, so I'm happy to deep-dive into a new tool or topic needed for work.
+## One Last Thing
 
-Lately I've studied FastAPI, React, and MongoDB (the FARM stack). I love to prototype; so tools and frameworks that enable rapid development and iteration are always on my radar.
-
-And I love film, books, music, coffee, travel, history, philosophy. (But, hey, who doesn't?)
-
-I hope you enjoy my site. Please contact me if there are any ideas or opportunities you would like to discuss. Thanks!
+Thanks for visiting my site! Please contact me if there are any ideas or opportunities you would like to discuss. Thanks!
