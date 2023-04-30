@@ -1,7 +1,7 @@
 baseURL: http://jason.gannon.me/
 languageCode: en-us
 title: Jason Gannon — Personal Site
-theme: 
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
