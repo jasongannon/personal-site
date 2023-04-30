@@ -32,7 +32,7 @@ cover:
 
 ## This Site's Reason for Being
 
-This site's reason for being (more or less) is to provide some insight into my work and skills, specifically topics relevant to software development and technical writing, and, even more specifically, how such topics are relevant to planning and building modern, engaging experiences that help developers enjoy their work more and be more productive.
+This site's reason for being (more or less) is to provide some insight into my work and skills, specifically topics relevant to software development and technical writing.
 
 I avoid saying things like this site is to "help build my personal brand", because I can only assume a personal brand must come with things like a personal logo and personal color palette. Maybe I'd have to sell Jason Gannon-themed merchandise? Well, I'm not prepared for all that.
 
@@ -48,7 +48,7 @@ Now that that's cleared up, I'll add that I'm also a technical writer and develo
 
 My expertise is in technical writing — that is my first and best skill and the one I've been honing since university. I'm well versed in the tools and methodologies needed to build great documentation. So topics like style and usage, technical editing, working with SMEs, and information architecture are right in my wheelhouse.
 
-I am a decent to very good front-end developer, especially once I get into a flow with a tool. It's the nature of the job, I tend to switch up toolchains often, which makes the day-in-day-out use of any specific tool rare and makes me very disinclined to compare my skills with those talented individuals who have true expertise with a tool like React. That all said, I can hold my own, and I can operate as a developer/writer (I usually do).
+I am a decent to very good front-end developer, especially if I get into a flow with a tool. It's the nature of the job, I tend to switch up toolchains often, which makes the day-in-day-out use of any specific tool rare and makes me very disinclined to compare my skills with those talented individuals who have true expertise with a tool like React. That all said, I can hold my own, and I can operate in a writer/developer role (I usually do).
 
 ### How I Like to Work
 
