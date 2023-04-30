@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://jason.gannon.me/samples/</loc>
+    <lastmod>2023-04-30T00:43:12-04:00</lastmod>
+  </url><url>
+    <loc>http://jason.gannon.me/posts/</loc>
+    <lastmod>2023-04-30T00:41:00-04:00</lastmod>
+  </url><url>
+    <loc>http://jason.gannon.me/</loc>
+    <lastmod>2023-04-30T00:39:58-04:00</lastmod>
+  </url><url>
+    <loc>http://jason.gannon.me/about/</loc>
+    <lastmod>2023-04-30T00:18:12-04:00</lastmod>
+  </url><url>
+    <loc>http://jason.gannon.me/samples/banana-stand/ba/</loc>
+    <lastmod>2023-04-29T22:34:45-04:00</lastmod>
+  </url><url>
+    <loc>http://jason.gannon.me/archives/</loc>
+  </url><url>
+    <loc>http://jason.gannon.me/categories/</loc>
+  </url><url>
+    <loc>http://jason.gannon.me/search/</loc>
+  </url><url>
+    <loc>http://jason.gannon.me/tags/</loc>
+  </url>
+</urlset>

@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: http://jason.gannon.me/
 languageCode: en-us
 title: Jason Gannon — Personal Site
 theme: PaperMod
@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 
 googleAnalytics: UA-123-45
 
@@ -15,28 +16,29 @@ minify:
   minifyOutput: true
 
 params:
+  copyright: "Copyright &copy; 2023 Jason Gannon --> All Rights Reserved."
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  description: "The personal website of Jason Gannon — https://github.com/jasongannon/personal-site"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
+  author: Jason Gannon
+
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  # disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: false
-  ShowRssButtonInSectionTermList: false
+  # ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: true
+  # disableSpecial1stPost: true
   disableScrollToTop: false
-  comments: false
+  # comments: false
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -73,14 +75,19 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: Jason Gannon
-    Content: "Technical Writer and Developer \U0000270D"
+    Title: "Jason Gannon"
+    Content: "Developer, technical writer, avid traveler, cinephile, nice person,   \U0000270D" 
 
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/jasonmgannon/"
     - name: github
       url: "https://github.com/jasongannon"
+
+  editPost:
+    URL: "https://github.com/jasongannon/personal-site/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link    
 
   analytics:
     google:
@@ -92,11 +99,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -111,13 +113,9 @@ params:
 menu:
   main:
     - identifier: about
-      name: about me
-      url: /about-me/
-      weight: 1
-    - identifier: skills
-      name: skills
-      url: /skills/
-      weight: 3  
+      name: about
+      url: /about/
+      weight: 1 
     - identifier: samples
       name: samples
       url: /samples/
@@ -134,19 +132,48 @@ menu:
       name: github.com
       url: https://github.com/jasongannon/personal-site
       weight: 30
+      external: true
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
 
 outputs:
     home:
         - HTML
         - RSS
         - JSON # is necessary    
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false
+        # anchorLineNos: true
+        # codeFences: true
+        # guessSyntax: true
+        # lineNos: true
+        # style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true        

@@ -1,28 +1,26 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "About"
+date: 2023-04-30T00:18:12-04:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["blog"]
+tags: []
 author: "Jason Gannon"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: ""
+canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
-disableShare: false
-disableHLJS: false
+disableShare: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-ShowRssButtonInSectionTermList: true
+ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: "<image path/url>" # image path/url
@@ -30,5 +28,5 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-
 ---
+asdfasdf
