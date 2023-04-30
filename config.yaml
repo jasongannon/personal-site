@@ -9,7 +9,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-E9BMMZKE0K
 
 minify:
   disableXML: true
@@ -92,7 +92,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-E9BMMZKE0K"
     bing:
       SiteVerificationTag: "XYZabc"
 
