@@ -23,6 +23,8 @@ ShowPostNavLinks: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
+parameters:
+  hiddenInHomeList: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
