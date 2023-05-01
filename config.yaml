@@ -34,15 +34,15 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  # ShowWordCount: false
+  ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  # disableSpecial1stPost: true
+  disableSpecial1stPost: false
   disableScrollToTop: false
   # comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -58,21 +58,6 @@ params:
     text: "Home"
     icon: /apple-touch-icon.png
     iconHeight: 35
-
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:

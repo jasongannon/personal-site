@@ -10,23 +10,17 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: true
-comments: false
+comments: true
 description: ""
 canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
 disableShare: true
 hideSummary: true
 searchHidden: true
-ShowReadingTime: false
+ShowReadingTime: true
 ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowWordCount: false
-ShowRssButtonInSectionTermList: false
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
 ---
