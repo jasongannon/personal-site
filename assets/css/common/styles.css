@@ -1,0 +1,15 @@
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .column {
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .in-text {
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  

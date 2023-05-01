@@ -20,6 +20,10 @@
     },
     "peacock.color": "#4b5320",
     "cSpell.words": [
-        "pygments"
+        "markdownify",
+        "Pandoc",
+        "pygments",
+        "Redocly",
+        "Visio"
     ]
 }

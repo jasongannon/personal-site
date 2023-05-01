@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
