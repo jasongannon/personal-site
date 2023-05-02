@@ -1,9 +1,9 @@
 ---
-title: "Add Callouts in Hugo"
-date: 2023-05-02T02:30:56-04:00
+title: "Callouts in Hugo"
+date: 2023-05-02T03:32:22-04:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Hugo", "documentation", "Markdown"]
+tags: ["article"]
 author: "Jason Gannon"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,9 +11,9 @@ TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-description: "How to add shortcodes for callouts in Hugo"
-canonicalURL: "https://jasongannon.me"
-disableHLJS: false # to disable highlightjs
+description: "Desc Text."
+canonicalURL: "https://jasongannon.me/to/page"
+disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -25,10 +25,14 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
+editPost:
+    URL: "https://github.com/jasongannon/personal-site/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
 ---
