@@ -48,10 +48,10 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "static/favicons/favicon.ico"
-    favicon16x16: "static/favicons/favicon-16x16.png"
-    favicon32x32: "static/favicons/favicon-32x32.png"
-    apple_touch_icon: "static/favicons/apple-touch-icon.png"
+    favicon: "https://jasongannon.me/static/favicons/favicon.ico"
+    favicon16x16: "https://jasongannon.me/static/favicons/favicon-16x16.png"
+    favicon32x32: "https://jasongannon.me/static/favicons/favicon-32x32.png"
+    apple_touch_icon: "https://jasongannon.me/static/favicons/apple-touch-icon.png"
    # safari_pinned_tab: ""
 
   label:
