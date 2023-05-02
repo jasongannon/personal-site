@@ -8,7 +8,7 @@ author: "Jason Gannon"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Websites. Dead websites, I mean."
@@ -29,7 +29,7 @@ cover:
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/jasongannon/personal-site/content/articles/new-site.md"
     Text: "Suggest Changes" # edit text
