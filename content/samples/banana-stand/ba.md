@@ -31,4 +31,3 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-asdfasdfadsf
