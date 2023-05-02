@@ -20,6 +20,7 @@
     },
     "peacock.color": "#4b5320",
     "cSpell.words": [
+        "callout",
         "markdownify",
         "Pandoc",
         "pygments",

@@ -19,10 +19,10 @@ params:
   copyright: "Copyright &copy; 2023 Jason Gannon --> All Rights Reserved."
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "The personal website of Jason Gannon — https://github.com/jasongannon/personal-site"
-  keywords: [Blog, Portfolio, Technical Writing, Software Development]
+  keywords: ["Technical Writing", "Software Development", "Developer Documentation", "Developer Experience"]
   author: Jason Gannon
   mainSections:
-    - posts
+    - articles
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -101,13 +101,9 @@ menu:
       name: about
       url: /about/
       weight: 1 
-    - identifier: samples
-      name: samples
-      url: /samples/
-      weight: 3
-    - identifier: posts
-      name: posts
-      url: /posts/
+    - identifier: articles
+      name: articles
+      url: /articles/
       weight: 10
     - identifier: tags
       name: tags

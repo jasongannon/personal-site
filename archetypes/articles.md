@@ -3,21 +3,21 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
-tags: ["blog"]
+tags: ["article"]
 author: "Jason Gannon"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
-comments: false
-description: "Desc Text."
+comments: true
+description: ""
 canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
