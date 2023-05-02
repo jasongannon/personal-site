@@ -23,7 +23,7 @@ params:
   author: Jason Gannon
   mainSections:
     - posts
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   # disableThemeToggle: false
@@ -61,7 +61,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Jason Gannon"
-    Content: "Developer, technical writer, avid traveler, cinephile, nice person,   \U0000270D" 
+    Content: "Developer, technical writer, traveler, filmgoer, coffee drinker, nice person,   \U0000270D" 
 
   socialIcons:
     - name: linkedin
@@ -78,7 +78,7 @@ params:
     google:
       SiteVerificationTag: "G-E9BMMZKE0K"
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
 
   cover:
     hidden: true # hide everywhere but not in structured data
