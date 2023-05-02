@@ -1,18 +1,19 @@
 ---
-title: "Link Your Docs to Your Postman Collections"
-date: 2023-05-02T01:26:21-04:00
-draft: false
-tags: ["Postman", "APIs", "documentation"]
+title: "Public Postman"
+date: 2023-05-02T03:35:58-04:00
+# weight: 1
+# aliases: ["/first"]
+tags: ["Postman", "APIs", "documentation", "developer experience"]
 author: "Jason Gannon"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
-description: "Let Users Import or Fork Public Postman Collections Right from Your Documentation"
-canonicalURL: "https://jasongannon.me"
-disableHLJS: false # to disable highlightjs
+description: "Desc Text."
+canonicalURL: "https://jasongannon.me/content/articles/public-postman.md"
+disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -27,11 +28,14 @@ cover:
     image: "/images/postman-logo.svg" # image path/url
     alt: "Postman" # alt text
     caption: "Postman — an API Platform to design, build, and test APIs" # display caption under cover
-    relative: true # when using page bundles set this to true
+    relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/jasongannon/personal-site/content/articles/public-postman.md"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
 ---
-
-
 ## Introduction
 
 This guide provides instructions for creating a public workspace in Postman, importing OAS files into collections, and making those collections publicly available.

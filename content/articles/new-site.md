@@ -1,6 +1,6 @@
 ---
 title: "And You Will Know Me By My Trail of Dead..."
-date: 2023-05-01T02:52:57-04:00
+date: 2023-05-02T03:33:10-04:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["Hugo", "SSG", "web development", "frontend development"]
@@ -8,16 +8,16 @@ author: "Jason Gannon"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Websites. Dead websites, I mean."
-canonicalURL: "https://jasongannon.me"
-disableHLJS: false # to disable highlightjs
+canonicalURL: "https://jasongannon.me/content/articles/new-site.md"
+disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -29,10 +29,13 @@ cover:
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    hidden: true # only hide on current single page
+editPost:
+    URL: "https://github.com/jasongannon/personal-site/content/articles/new-site.md"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
 ---
-
 ## Another Year, Another Site
 
 Like many, I've left a trail of dead websites scattered across the internet these last 20 years or so. Good thing there are no laws against it.
