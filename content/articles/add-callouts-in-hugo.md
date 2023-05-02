@@ -1,17 +1,17 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Add Callouts in Hugo"
+date: 2023-05-02T02:30:56-04:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["blog"]
+tags: ["Hugo", "documentation", "Markdown"]
 author: "Jason Gannon"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "How to add shortcodes for callouts in Hugo"
 canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
 disableShare: false

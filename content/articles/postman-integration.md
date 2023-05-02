@@ -1,5 +1,5 @@
 ---
-title: "How to Link to Your Public Postman Collections"
+title: "Link Your Docs to Your Postman Collections"
 date: 2023-05-02T01:26:21-04:00
 draft: false
 tags: ["Postman", "APIs", "documentation"]
@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Let Users Import Postman Collections from Your Documentation"
+description: "Let Users Import or Fork Public Postman Collections Right from Your Documentation"
 canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -47,16 +47,23 @@ Also, this guide covers how to provide a link in your API documentation so users
 
 ### Create a new workspace
 
-You can either create a Team workspace and change the visibility to Public, or you may create a Public Workspace, already set to Public visibility. In this example, we'll create a public workspace.
+In this example, we'll create a public workspace.
+
+{{< callout info >}}
+
+#### You can start with a team space or a public space
+
+You can either create a Team workspace and change the visibility to Public, or you may create a Public Workspace, preset to Public visibility. 
+{{< /callout >}}
 
 
 
 To create a new Public workspace:
 
-1. Select the **Workspaces** menu.
+1. Select the **Workspaces**.
 2. Select **Create New**.
-3. Select **Public**.
-4. Give your workspace a name and an optional description.
+3. Give your workspace a name and an optional description.
+4. Select **Public**.
 5. Select **Create Workspace**.
 
 

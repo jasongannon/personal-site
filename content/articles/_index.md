@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Articles"
 date: 2023-04-30T00:41:00-04:00
 # weight: 1
 # aliases: ["/first"]
@@ -16,7 +16,7 @@ canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
 disableShare: true
 hideSummary: true
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
