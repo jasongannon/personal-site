@@ -56,7 +56,7 @@ params:
 
   label:
     text: "Home"
-    icon: https://jasongannon.me/static/mac-icon.ico
+    icon: https://jasongannon.me/static/images/mac-icon.ico
     iconHeight: 35
 
   # home-info mode
