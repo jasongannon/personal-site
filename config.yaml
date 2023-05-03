@@ -61,7 +61,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Jason Gannon"
-    Content: "Developer, technical writer, traveler, filmgoer, coffee drinker, nice person,   \U0000270D" 
+    Content: "Developer, technical writer, traveler, filmgoer, music listener, coffee drinker,   \U0000270D" 
 
   socialIcons:
     - name: linkedin
