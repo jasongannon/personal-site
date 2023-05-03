@@ -1,5 +1,5 @@
 ---
-title: "How to Share Your APIs with Postman"
+title: "Add Postman Collections to Your Documentation"
 date: 2023-05-02T03:35:58-04:00
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Create Public Collections in Postman and Integrate with Your Documentation"
+description: "Create Public Collections in Postman and Link to it from Your Developer Documentation"
 canonicalURL: "https://jasongannon.me/content/articles/public-postman.md"
 disableHLJS: true # to disable highlightjs
 disableShare: false
