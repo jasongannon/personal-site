@@ -64,11 +64,11 @@ First we'll need to setup a Public workspace in Postman
 
 In this example, we'll create a public workspace.
 
-{{< callout info >}}
+{{< callout type="info" >}}
 
 #### You can start with a team space or a public space
 
-You can either create a Team workspace and change the visibility to Public, or you may create a Public Workspace, preset to Public visibility. 
+You can either create a Team workspace and change the visibility to Public, or you may create a Public Workspace, preset to Public visibility.
 {{< /callout >}}
 
 
@@ -80,7 +80,7 @@ To create a new Public workspace:
 4. Select **Public**.
 5. Select **Create Workspace**.
 
-{{< figure src="/images/create-public-workspace.gif" title="Add a public workspace" >}}
+{{< figure src="/images/create-public-workspace.gif" title="Add a public workspace"  >}}
 
 ## Importing OAS Files into Collections in Postman
 
@@ -95,7 +95,7 @@ From here, we see how to upload an OAS file into your public workspace to build 
 3. To make sure Postman adds collections based on the OAS file, select **Show Import Settings** and make sure **Copy collections to workspace** is selected.
 4. Select **Import** to upload the files into Postman. You will see your collection in the Collections window.
 
-{{< figure src="/images/import-collection.gif" title="Import Collection to Your Public Workspace" >}}
+{{< figure src="/images/import-collection.gif" title="Import Collection to Your Public Workspace"  >}}
 
 ## Integrating Postman Collections with Your Documentation
 
@@ -104,14 +104,14 @@ From here, we see how to upload an OAS file into your public workspace to build 
 1. Select the collection you want to share and then select Share Collection.
 2. In the box, select **Via Run in Postman**. You can select either an HTML or Markdown snippet to embed in your website.
 
-{{< figure src="/images/create-link.gif" title="Copy HTML or Markdown snippet" >}}
+{{< figure src="/images/create-link.gif" title="Copy HTML or Markdown snippet"  >}}
 
 ### Edit the API documentation
 
 1. Locate the section in your API documentation where you want to link to your Postman collection.
 2. Paste the HTML or Markdown snippet into your documentation.
 
-{{< figure src="/images/add-postman-link.gif" title="Add Postman link to your documentation" >}}
+{{< figure src="/images/add-postman-link.gif" title="Add Postman link to your documentation"  >}}
 
 After selecting **postman** the button, users can view, import, or fork the collection.
 
@@ -119,7 +119,7 @@ This is an example of the Postman button:
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/27195503-915c15ac-955a-4ea5-a906-5763531e0901?action=collection%2Ffork&collection-url=entityId%3D27195503-915c15ac-955a-4ea5-a906-5763531e0901%26entityType%3Dcollection%26workspaceId%3D2ad2a275-88f1-48e0-9000-31f94a6ec50b)
 
-{{< callout info >}}
+{{< callout type="info" icon="" >}}
 
 #### On Imports and Forks — If You're Interested (IYI)
 
@@ -138,7 +138,7 @@ You have successfully set up a public workspace in Postman, built a collection u
 
 And, you have integrated the Postman collection link into your API documentation, so users can view, import or fork your collection and test your APIs.
 
-{{< callout warning >}}
+{{< callout type="warning" >}}
 
 #### Keep Collections Updated!
 
