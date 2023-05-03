@@ -1,4 +1,7 @@
-<div class="callout {{ .Get 0 }}">
-    {{ .Inner | markdownify }}
-  </div>
-  
+{{ $icon := .Get "icon" }}
+<div class="callout {{ .Get "type" }}">
+  {{ if $icon }}
+    <img src="{{ $icon }}" alt="Icon">
+  {{ end }}
+  {{ .Inner | markdownify }}
+</div>
