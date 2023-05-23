@@ -16,7 +16,7 @@ canonicalURL: "https://jasongannon.me"
 disableHLJS: false # to disable highlightjs
 disableShare: true
 hideSummary: true
-searchHidden: true
+searchHidden: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: false

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>documentation on Jason Gannon — Personal Site</title>
+    <link>http://localhost:1313/tags/documentation/</link>
+    <description>Recent content in documentation on Jason Gannon — Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2023 03:35:58 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add Postman Collections to Your Documentation</title>
+      <link>http://localhost:1313/articles/public-postman/</link>
+      <pubDate>Tue, 02 May 2023 03:35:58 -0400</pubDate>
+      
+      <guid>http://localhost:1313/articles/public-postman/</guid>
+      <description>Create Public Collections in Postman and Link to it from Your Developer Documentation</description>
+    </item>
+    
+  </channel>
+</rss>

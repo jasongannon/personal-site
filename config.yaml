@@ -109,10 +109,14 @@ menu:
       name: tags
       url: /tags/
       weight: 29
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30  
     - identifier: github
       name: github.com
       url: https://github.com/jasongannon/personal-site
-      weight: 30
+      weight: 35
       external: true
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -148,7 +152,7 @@ markup:
   highlight:
     anchorLineNos: false
     codeFences: true
-    guessSyntax: false
+    guessSyntax: true
     hl_Lines: ""
     hl_inline: false
     lineAnchors: ""

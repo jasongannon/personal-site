@@ -21,6 +21,9 @@
     "peacock.color": "#4b5320",
     "cSpell.words": [
         "callout",
+        "hidemeta",
+        "highlightjs",
+        "HLJS",
         "markdownify",
         "Pandoc",
         "pygments",

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jason Gannon — Personal Site</title>
+    <link>https://jasongannon.me/</link>
+    <description>Recent content on Jason Gannon — Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Apr 2023 00:39:58 -0400</lastBuildDate><atom:link href="https://jasongannon.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add Postman Collections to Your Documentation</title>
+      <link>https://jasongannon.me/articles/public-postman/</link>
+      <pubDate>Tue, 02 May 2023 03:35:58 -0400</pubDate>
+      
+      <guid>https://jasongannon.me/articles/public-postman/</guid>
+      <description>Create Public Collections in Postman and Link to it from Your Developer Documentation</description>
+    </item>
+    
+    <item>
+      <title>And You Will Know Me By My Trail of Dead...</title>
+      <link>https://jasongannon.me/articles/new-site/</link>
+      <pubDate>Tue, 02 May 2023 03:33:10 -0400</pubDate>
+      
+      <guid>https://jasongannon.me/articles/new-site/</guid>
+      <description>Websites. Dead websites, I mean.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jasongannon.me/about/</link>
+      <pubDate>Sun, 30 Apr 2023 00:18:12 -0400</pubDate>
+      
+      <guid>https://jasongannon.me/about/</guid>
+      <description>This Site&amp;rsquo;s Reason for Being This site&amp;rsquo;s reason for being is to provide insight into my work and skills, specifically topics relevant to software development and technical writing.
+I avoid saying this site is to &amp;ldquo;help build my personal brand&amp;rdquo;, because I can only assume a personal brand must come with things like a personal logo and personal color palette. Maybe I&amp;rsquo;d have to sell Jason Gannon-themed merchandise? Well, I&amp;rsquo;m not prepared for all that.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

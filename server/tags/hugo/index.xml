@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on Jason Gannon — Personal Site</title>
+    <link>https://jasongannon.me/tags/hugo/</link>
+    <description>Recent content in Hugo on Jason Gannon — Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2023 03:33:10 -0400</lastBuildDate><atom:link href="https://jasongannon.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>And You Will Know Me By My Trail of Dead...</title>
+      <link>https://jasongannon.me/articles/new-site/</link>
+      <pubDate>Tue, 02 May 2023 03:33:10 -0400</pubDate>
+      
+      <guid>https://jasongannon.me/articles/new-site/</guid>
+      <description>Websites. Dead websites, I mean.</description>
+    </item>
+    
+  </channel>
+</rss>

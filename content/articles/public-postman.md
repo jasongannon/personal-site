@@ -17,7 +17,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -45,7 +45,7 @@ In this guide, we'll look at how to build public API collections in Postman and 
 ### What We Will Cover
 
 In this guide we'll look at how to:
- 
+
 1. Setup a public workspace in Postman. 
 2. Build an API collection from an existing OpenAPI Specification (OAS) file.
 3. Share this API collection in your public workspace.
@@ -70,7 +70,6 @@ In this example, we'll create a public workspace.
 
 You can either create a Team workspace and change the visibility to Public, or you may create a Public Workspace, preset to Public visibility.
 {{< /callout >}}
-
 
 To create a new Public workspace:
 
